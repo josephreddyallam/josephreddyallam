@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josephreddyallam
-- 👀 I’m interested in Develpment 
+- 👀 I’m interested in Development 
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin.com/in/joseph-reddy-allam-367ba2185
