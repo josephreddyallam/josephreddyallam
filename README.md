@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Joseph Reddy Allam
+## 👋 Hi, I'm Joseph Kalyan Reddy Allam
 
 🎯 **Aspiring Data Engineer** with a strong interest in **Artificial Intelligence** and end-to-end MLOps solutions.
 
