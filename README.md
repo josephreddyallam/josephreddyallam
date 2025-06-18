@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @josephreddyallam
-- 👀 Interested in AI
-- 🌱 Data Enginner
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me linkedin.com/in/joseph-reddy-allam-367ba2185
-- 😄 Pronouns: He/Him
+## 👋 Hi, I'm Joseph Reddy Allam
+
+🎯 **Aspiring Data Engineer** with a strong interest in **Artificial Intelligence** and end-to-end MLOps solutions.
+
+💡 Passionate about building scalable data pipelines, deploying ML models in the cloud, and solving real-world healthcare problems using AI.
+
+🤝 Open to collaborating on AI/ML and data engineering projects.
+
+📫 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/joseph-reddy-allam-367ba2185)
+
+🧑‍💼 **Pronouns**: He/Him
 
 
 <!---
